@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231227130764",
+    "project_id": "firebasics-c21e2",
+    "storage_bucket": "firebasics-c21e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231227130764:android:2375665e09220cc6f60ca9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMWUb2T4FZDN6b56jD0bPSde_dmJ50bnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
